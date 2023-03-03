@@ -1,4 +1,4 @@
-## Baseball Game
+## Solving Algorithmic Problems using Python Programming
 
 This project implements a scoring system for a baseball game that has rules highlighted below (## Usage), where the scores of past rounds can affect future rounds' scores. The game consists of several rounds, and at the beginning of the game, you start with an empty record.
 
