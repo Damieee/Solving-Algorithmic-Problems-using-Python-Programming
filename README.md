@@ -9,7 +9,7 @@ By completing this Python project, you will learn how to solve algorithmic probl
 ## Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/Damieee/baseball-game.git
+git clone https://github.com/Damieee/Solving-Algorithmic-Problems-using-Python-Programming.git
 
 ## Usage
 
