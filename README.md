@@ -25,4 +25,19 @@ To use the program, pass a list of strings ops to the baseball_game() function. 
 
 ## Your task
 
-Your task is to complete the code in the main.py file and remove the "pass" function so your code will be tested appropraitely.
+Your task is to complete the code in the baseball_game() function by filling in the code block below the comment that says "Write your code here". In this block, you will need to implement the game rules for each operation and update the stack accordingly. After each operation, you should print out the current state of the stack to make sure your code is working correctly.
+After completing the code, remove the pass statement and test your implementation by passing different ops lists to the baseball_game() function. 
+
+## Hint
+
+In order to complete the code in the main.py file, you should use conditional statements within the existing for loop. These statements should check each element in the ops list and implement the corresponding action based on the element's representation.
+
+> If the element is an integer, you should append it to the stack list. 
+
+> If it is a "C", you should remove the last element from the stack list (using the appropriate Python list method). 
+
+> If it is a "D", you should double the last element in the stack list and append the result to the stack list. 
+
+> Finally, if the element is a "+", you should add the last two elements in the stack list, and append the result to the stack list.
+
+Use the above hints to complete the "Write your code here" section of the code in the main.py file. Once you have written your code, run the test case and check if the output matches the expected output. If it does not, debug your code and try again until the test case passes. Good luck!
